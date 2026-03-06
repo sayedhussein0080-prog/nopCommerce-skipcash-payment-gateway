@@ -1,0 +1,11 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "SkipCash Payment Gateway",
+  "SystemName": "Payments.SkipCash",
+  "Version": "1.0.0",
+  "SupportedVersions": [ "4.80" ],
+  "Author": "Fanooos Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.SkipCash.dll",
+  "Description": "This plugin enables SkipCash payment gateway integration for online card payments"
+}

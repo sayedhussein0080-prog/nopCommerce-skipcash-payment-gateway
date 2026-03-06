@@ -1,0 +1,7 @@
+[Oo]bj/
+[Bb]in/
+*.user
+*.userprefs
+*.suo
+.vs/
+*.dll
